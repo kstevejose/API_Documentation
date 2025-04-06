@@ -103,9 +103,9 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
+          to: '/docs/api/financial-information-provider-api',
+          label: 'API',
+          position: 'left',
         },
       ],
     },
