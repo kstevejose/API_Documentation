@@ -14,12 +14,12 @@ const config: Config = {
   url: 'https://kstevejose.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/API-Documentation/',
+  baseUrl: '/API_Documentation/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'kstevejose', // Usually your GitHub org/user name.
-  projectName: 'API-Documentation', // Usually your repo name.
+  projectName: 'API_Documentation', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
